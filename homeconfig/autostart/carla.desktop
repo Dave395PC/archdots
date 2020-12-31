@@ -1,0 +1,12 @@
+[Desktop Entry]
+Categories=AudioVideo;X-AudioEditing;Qt;
+Comment=Audio Plugin Host
+Exec=carla %u
+GenericName=Carla Plugin Host
+Icon=carla
+MimeType=application/x-carla-project;
+Name=Carla
+Terminal=false
+Type=Application
+Version=1.0
+X-NSM-capable=true

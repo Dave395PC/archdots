@@ -1,0 +1,45 @@
+## Auto-generated for the 1000th fucking time (1st entry -> swap)
+
+# <device>					<dir>		<type>		<options>	<dump> <fsck>
+
+# /dev/sdb2	Arch Root
+UUID=d0ad289f-3ceb-4f88-9a15-7f2bec4d9217	/         	ext4      	rw,relatime	0 1
+
+# /dev/sdb1	Arch ESP
+UUID=2D51-AFE2      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/sdb4	Arch Home
+UUID=62d41603-57b9-4ee5-bb4d-02c9f06b4049	/home     	ext4      	rw,relatime	0 2
+
+# /dev/sdc7	Ubuntu Root
+UUID=92d00940-85a3-4140-8377-ba2ec113df47	/mnt/Ubuntu/root	ext4      	rw,relatime	0 2
+
+# /dev/sdb3	Arch Swap	(wait why tf is this after /home???)
+UUID=c536cf35-f0bd-48fe-bf75-db594aefa66d	none      	swap      	defaults  	0 0
+
+# /dev/sdc6	Ubuntu Home
+UUID=7805c5f1-00cf-44ff-b91c-82c16080b0c4	/mnt/Ubuntu/home	ext4		rw,relatime	0 2
+
+# /dev/sdc2	Ubuntu ESP
+UUID=EF35-45BA		/Ubuntu/boot	vfat	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=iso8859-1,shortname=mixed,utf8       0 0
+
+# /dev/sdc3	WDB 1.5TB Part
+UUID=62DEE225DEE1F169				/mnt/Storage	ntfs-3g		rw,relatime,uid=1000,gid=1000,dmask=0022,fmask=0022,utf8	0 0
+
+# /dev/sdc4	Sorted
+UUID=A45A9A185A99E778				/mnt/Sorted	ntfs-3g		defaults,uid=1000,gid=1000,dmask=0022,fmask=0022,utf8	0 0
+
+# /dev/sdb5	NTFS Misc
+UUID=02B9FAFB75C43A26				/mnt/NTFSmisc	ntfs-3g		defaults,uid=1000,gid=1000,dmask=0022,fmask=0022,utf8	0 0
+
+# /dev/sdd4	Win 10 Pro
+UUID=CED4E82BD4E8178B				/mnt/Win10	ntfs-3g		defaults,uid=1000,gid=1000,dmask=0022,fmask=0022,utf8	0 0
+
+# /dev/sdd2	Win 10 Recovery
+#UUID=9EDA-0E4D					/mnt/WinRecovery auto		defaults,uid=1000,gid=1000,dmask=0022,fmask=0022,utf8	0 0
+
+# /dev/sdd6	Moar SSD
+UUID=BCA4EACEA4EA8A6A				/mnt/MoarSSD	ntfs-3g		defaults,uid=1000,gid=1000,dmask=0022,fmask=0022,utf8	0 0
+
+# /dev/sde?     Jon's SSD Lmao
+#UUID=                                          /mnt/JonSSDcreatepls    ntfs-3g defaults,uid=1000,gid=1000,dmask=0022,fmask=0022,utf8   0 0

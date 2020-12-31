@@ -1,0 +1,14 @@
+[Desktop Entry]
+Categories=Audio;AudioVideo;Midi;X-Alsa;X-Jack;Qt;
+Comment=QjackCtl is a JACK Audio Connection Kit Qt GUI Interface
+Exec=qjackctl
+GenericName=JACK Control
+Icon=qjackctl
+Keywords=Audio;MIDI;ALSA;JACK;LV2;Qt;
+Name=QjackCtl
+StartupWMClass=qjackctl
+Terminal=false
+Type=Application
+Version=1.0
+X-SuSE-translate=true
+X-Window-Icon=qjackctl

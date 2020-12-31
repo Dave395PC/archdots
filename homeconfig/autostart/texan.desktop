@@ -1,0 +1,14 @@
+[Desktop Entry]
+Comment=
+Exec=~/texan.sh
+GenericName=Disc Bot
+Icon=discord-canary
+Name=Texan
+NoDisplay=false
+Path[$e]=
+StartupNotify=true
+Terminal=1
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
